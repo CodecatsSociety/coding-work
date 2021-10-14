@@ -1,7 +1,7 @@
 # CodeCats Society
 
 ##### `Week 1 :` If-Else
-Play With **If-Else** :  [Link](https://codeforwin.org/2015/05/if-else-programming-practice.html)
+Play With **If-Else** :  [Link](https://docs.google.com/document/d/1J71t8xqOoSuS62cSpJRwsvsDHj9kKWHjGnxfgjQMxo8/edit?usp=sharing)
 
 ##### `Week 2 :` For Loop
 Play With For Loop [First 40 Questions] : [Link](https://codeforwin.org/2015/06/for-do-while-loop-programming-exercises.html)
