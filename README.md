@@ -6,3 +6,7 @@
   
 - Details For Week 1 : [Link](https://docs.google.com/document/d/1ALtuZ3tvvjO5LAI4CpJESLmZYHvrbhtyqQhZBW-LvS4/edit?usp=sharing)
 - Question Task [For NonCS and CS Student] : [Link](https://docs.google.com/document/d/1J71t8xqOoSuS62cSpJRwsvsDHj9kKWHjGnxfgjQMxo8/edit?usp=sharing)
+
+### `Week 2 :` Play with Loops
+
+Question Task : [Link](https://docs.google.com/document/d/1BeqvY0ItK48lbgpkQ-a9CCLLGdVWXqFUdo3idngDsXc/edit?usp=sharing)
