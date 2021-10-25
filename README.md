@@ -3,6 +3,7 @@
 ### `Week 2 :` Play with Loops
 
 Question Task : [Link](https://docs.google.com/document/d/1FVWMuI9TOTff8hRy08YREA9grtJf9PG7n41ekfVnBOM/edit?usp=sharing)
+-Details For Week 2: [Link](https://docs.google.com/document/d/1hqyql50D_1d-JlDg2pSyeEk9FvCiDxINcNSTcD8f5as/edit?usp=sharing)
 
 ### `Week 1 :` Let's Start our Journey. (Playing upto If-Else)
 > Note:
