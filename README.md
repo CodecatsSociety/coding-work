@@ -1,5 +1,10 @@
 # CodeCats Society
 
+### `Week 3 :` Nested Loops + Array Basics
+
+- Details For Week 3: [Link](#)
+- Question Task : [Link](#)
+
 ### `Week 2 :` Play with Loops
 
 - Details For Week 2: [Link](https://docs.google.com/document/d/1hqyql50D_1d-JlDg2pSyeEk9FvCiDxINcNSTcD8f5as/edit?usp=sharing)
