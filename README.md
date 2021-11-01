@@ -2,7 +2,7 @@
 
 ### `Week 3 :` Nested Loops + Array Basics
 
-- Details For Week 3: [Will be Updated Soon](#)
+- Details For Week 3: [Link](https://docs.google.com/document/d/1wpa9zNu_7sBwjMJf123hIzPWiUE8ueXrvn8PAKnfMTE/edit?usp=sharing)
 - Question Task : [Link](https://docs.google.com/document/d/1dnjlaFyg1ztuzdTniGWws6XkTqQSy7hP8ze7R6MdEts/edit?usp=sharing)
 
 ### `Week 2 :` Play with Loops
