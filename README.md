@@ -2,8 +2,8 @@
 
 ### `Week 3 :` Nested Loops + Array Basics
 
-- Details For Week 3: [Link](#)
-- Question Task : [Link](#)
+- Details For Week 3: [Will be Updated Soon](#)
+- Question Task : [Link](https://docs.google.com/document/d/1dnjlaFyg1ztuzdTniGWws6XkTqQSy7hP8ze7R6MdEts/edit?usp=sharing)
 
 ### `Week 2 :` Play with Loops
 
