@@ -1,8 +1,13 @@
 # CodeCats Society
 
+### `Week 5 :` Strings
+
+- Details For Week 5: [Link](#)
+- Question Task : [Link](https://docs.google.com/document/d/1_96_zTzqLeP954PRgBrqcYN8dfLNMMIgaupLvLVz5mw/edit?usp=sharing)
+
 ### `Week 4 :` Array
 
-- Details For Week 3: [Link](https://docs.google.com/document/d/1irz5dOBmX8bOVzY8tdDtJAkgli40OTwy8Ez7BjzuB7I/edit?usp=sharing)
+- Details For Week 4: [Link](https://docs.google.com/document/d/1irz5dOBmX8bOVzY8tdDtJAkgli40OTwy8Ez7BjzuB7I/edit?usp=sharing)
 - Question Task : [Link](https://docs.google.com/document/d/1IPNEGJdJ4FRfpmtb_P74_qjkj7_SenoZBisuB_Vwj8o/edit?usp=sharing)
 
 ### `Week 3 :` Nested Loops + Array Basics
