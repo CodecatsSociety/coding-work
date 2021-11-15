@@ -2,7 +2,7 @@
 
 ### `Week 5 :` Strings
 
-- Details For Week 5: [Link](#)
+- Details For Week 5: [Link](https://docs.google.com/document/d/12-EyxkyJlHlRVpfNPA3O7n3V0CsOF8BDjbU_kVLF3mI/edit?usp=sharing)
 - Question Task : [Link](https://docs.google.com/document/d/1_96_zTzqLeP954PRgBrqcYN8dfLNMMIgaupLvLVz5mw/edit?usp=sharing)
 
 ### `Week 4 :` Array
