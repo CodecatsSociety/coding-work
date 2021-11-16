@@ -4,7 +4,7 @@
 
 > Pointer Theory
 
-- [Neso](https://www.youtube.com/watch?v=55l-aZ7_F24&list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)
+- [Neso](https://www.youtube.com/watch?v=55l-aZ7_F24&list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP) `From Video no. 18`
 - [MySirG](https://www.youtube.com/watch?v=d26HpQ2DKUo&list=PLgD2pQFJFJ1QWQQcYoWZ4R6plGXi6d8TT) `First 7 Videos`
 
 > Pointer Practice
