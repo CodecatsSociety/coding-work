@@ -7,9 +7,11 @@
 - [x] [Neso](https://www.youtube.com/watch?v=55l-aZ7_F24&list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)
 - [x] [MySirG](https://www.youtube.com/watch?v=d26HpQ2DKUo&list=PLgD2pQFJFJ1QWQQcYoWZ4R6plGXi6d8TT) `First 7 Videos`
 
-> POinter Practice [Basics]
+> Pointer Practice [Basics]
 
 - [x] [Sanjay Gupta](https://www.youtube.com/watch?v=KIx_XZ0WuBY&list=PL-gW8Fj5TGrrthd1Djj7V72bDHnF0psKr)
+
+`You can upload the practice questions on github.`
 
 ### `Week 4 :` Array
 
