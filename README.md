@@ -1,5 +1,9 @@
 # CodeCats Society
 
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vSd31U_A5Yr1oolMyXqgl-bAb_MT2dZF3pgQ_uTzVPKmcO3znlxzolze6pLN-EBoWQMZtmGCrcG___I/pubchart?oid=542745511&format=image)
+
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vSd31U_A5Yr1oolMyXqgl-bAb_MT2dZF3pgQ_uTzVPKmcO3znlxzolze6pLN-EBoWQMZtmGCrcG___I/pubchart?oid=1888610532&format=image)
+
 ### `Week 6 :` Strings
 
 - Details For Week 6: [Link](https://docs.google.com/document/d/12-EyxkyJlHlRVpfNPA3O7n3V0CsOF8BDjbU_kVLF3mI/edit?usp=sharing)
