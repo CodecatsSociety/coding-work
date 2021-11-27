@@ -1,6 +1,6 @@
 # CodeCats Society
 
-## [Student Report](bit.ly/ccsstudentreport)
+### [Student Report](https://bit.ly/ccsstudentreport)
 
 ### `Week 6 :` Strings
 
