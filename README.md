@@ -1,7 +1,5 @@
 # CodeCats Society
 
-### [Student Report](https://bit.ly/ccsstudentreport)
-
 ### `Week 6 :` Strings
 - Hashing Technique: [Video Recorded](https://drive.google.com/file/d/11T3LGpHtF9994Ml_3oozHmHL48_EUMWb/view?usp=drivesdk)
 - Details For Week 6: [Link](https://docs.google.com/document/d/12-EyxkyJlHlRVpfNPA3O7n3V0CsOF8BDjbU_kVLF3mI/edit?usp=sharing)
