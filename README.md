@@ -1,5 +1,10 @@
 # CodeCats Society
 
+### `MiniProject :` Console Based Shopping Portal
+- Project Description: [Link](https://docs.google.com/document/d/1X_DNL8rQ0zs6bZuVRmJGXP87zEX2vtt2o5Z6sy_T8cE/edit?usp=sharing)
+- Project Demo: (Similar, not exactly same) [Link](https://drive.google.com/file/d/1VzF5xUeVvLrFJe5uwnitE3YicqJqo5rV/view?usp=sharing)
+- You can take help from the google and your classmates too..You will get to learn som differents things and ideas too.
+
 ### `Week 6 :` Strings
 - Hashing Technique: [Video Recorded](https://drive.google.com/file/d/11T3LGpHtF9994Ml_3oozHmHL48_EUMWb/view?usp=drivesdk)
 - Details For Week 6: [Link](https://docs.google.com/document/d/12-EyxkyJlHlRVpfNPA3O7n3V0CsOF8BDjbU_kVLF3mI/edit?usp=sharing)
