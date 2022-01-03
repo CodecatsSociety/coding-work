@@ -1,12 +1,25 @@
 # CodeCats Society
 
 ### `Week 8:` Practice Your Learning (Matrix) - All Easy Question should be done in a Week
-- Practice : [Link](https://leetcode.com/tag/matrix/) - Filter with Difficulty, Do all Easy Questions.
-- Submit leetcode profile in form - [Link](https://forms.gle/nVeDEDizTHG1NeNy5)
 
-### `Week 7:` Matrix
+- Practice : [Link](https://leetcode.com/tag/matrix/) - Filter with Difficulty, Do all Easy Questions. `(Atleast 15)`
+- Submit Codes in Github (Copy paste Code from platform to file (.cpp) only, no need to take the inputs or anything just copy paste the code you wrote on platform, with its function)
+
+### `Week 7:` Matrix (Try to code with c++ by yourself)
 - Lectures to learn topic: [Link](https://www.youtube.com/watch?v=aN9zP9M_FZ8&list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH)
-- Upload the Codes On Github
+- Upload the Codes On Github `(Atleast 10)`
+
+#### Should be done within your journey. Just understand how to use it (to do the questions on platforms), dont go for working it will be clear when you learn object oriented programming basics and its templates.
+
+- 1: [Link](https://youtu.be/R5BEcvTVZj0)
+- 2: [Link](https://youtu.be/udExMlaR_nA)
+- 3: [Link](https://youtu.be/udExMlaR_nA)
+- 4: [Link](https://youtu.be/4EDbe3lhHOM)
+- 5: [Link](https://youtu.be/xiXMmOSDX3U)
+
+----
+## [Everyone moves to C++ from today Onwards.]
+----
 
 ### `MiniProject :` Console Based Shopping Portal
 - Project Description: [Link](https://docs.google.com/document/d/1X_DNL8rQ0zs6bZuVRmJGXP87zEX2vtt2o5Z6sy_T8cE/edit?usp=sharing)
