@@ -6,11 +6,11 @@
 - Submit Codes in Github (Copy paste Code from platform to file (.cpp) only, no need to take the inputs or anything just copy paste the code you wrote on platform, with its function)
 
 `Vectors STL:`
-- https://youtu.be/R5BEcvTVZj0
-- https://youtu.be/udExMlaR_nA
-- https://youtu.be/ytyOI1RkZ24
-- https://youtu.be/4EDbe3lhHOM
-- https://youtu.be/xiXMmOSDX3U
+- [Link](https://youtu.be/R5BEcvTVZj0)
+- [Link](https://youtu.be/udExMlaR_nA)
+- [Link](https://youtu.be/ytyOI1RkZ24)
+- [Link](https://youtu.be/4EDbe3lhHOM)
+- [Link](https://youtu.be/xiXMmOSDX3U)
 
 `May be you find the difficulty in using vectors, learn it before doing practice just understand how to use dont think too much how it works, it will be clear when you do object oriented programming and templates`
 
