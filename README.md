@@ -1,12 +1,27 @@
 # CodeCats Society
 
+### `Week 8:` Practice Your Learning (Matrix) - All Easy Question should be done in a Week
+
+- Practice : [Link](https://leetcode.com/tag/matrix/) - Filter with Difficulty, Do all Easy Questions. `(Atleast 15)`
+- Submit Codes in Github (Copy paste Code from platform to file (.cpp) only, no need to take the inputs or anything just copy paste the code you wrote on platform, with its function)
+
+`Vectors STL:`
+- https://youtu.be/R5BEcvTVZj0
+- https://youtu.be/udExMlaR_nA
+- https://youtu.be/ytyOI1RkZ24
+- https://youtu.be/4EDbe3lhHOM
+- https://youtu.be/xiXMmOSDX3U
+
+`May be you find the difficulty in using vectors, learn it before doing practice just understand how to use dont think too much how it works, it will be clear when you do object oriented programming and templates`
+
 ### `Week 7:` Matrix (Try to code with c++ by yourself)
 - Lectures to learn topic: [Link](https://www.youtube.com/watch?v=aN9zP9M_FZ8&list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH)
 - Upload the Codes On Github `(Atleast 10)`
-- Please Learn to create an array in heap using c++.
+- Please Learn to create an array and a 2D array in heap.
 
 ----
-## [Everyone moves to C++ from today Onwards.]
+## [Everyone moves to C++ from today Onwards.] (Quick Learn - [Link](https://www.youtube.com/watch?v=lHJcLLsre70&list=PLauivoElc3gh48CgP4cQPrC1wrpAqY9cf&index=1))
+Other Big Course will be shared soon.
 ----
 
 ### `MiniProject :` Console Based Shopping Portal
