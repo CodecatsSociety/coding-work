@@ -1,5 +1,13 @@
 # CodeCats Society
 
+### `Week 8:` Practice Your Learning (Matrix) - All Easy Question should be done in a Week
+- Practice : [Link](https://leetcode.com/tag/matrix/) - Filter with Difficulty, Do all Easy Questions.
+- Submit leetcode profile in form - [Link](https://forms.gle/nVeDEDizTHG1NeNy5)
+
+### `Week 7:` Matrix
+- Lectures to learn topic: [Link](https://www.youtube.com/watch?v=aN9zP9M_FZ8&list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH)
+- Upload the Codes On Github
+
 ### `MiniProject :` Console Based Shopping Portal
 - Project Description: [Link](https://docs.google.com/document/d/1X_DNL8rQ0zs6bZuVRmJGXP87zEX2vtt2o5Z6sy_T8cE/edit?usp=sharing)
 - Project Demo: (Similar, not exactly same) [Link](https://drive.google.com/file/d/1VzF5xUeVvLrFJe5uwnitE3YicqJqo5rV/view?usp=sharing)
