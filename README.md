@@ -1,5 +1,14 @@
 # CodeCats Society
 
+### `Week 9 - Week 10:` Recursion Foundation
+- Developing Thoughts of Recursion: [Playlist](https://www.youtube.com/watch?v=5Q5ed7PWJ8I&list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs)
+- **Why and When Use Recursion:**
+ 1. [Blog Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/)
+ 2. [Blog Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/)
+ 3. [Blog](https://www.byte-by-byte.com/recursion/)
+- **How we consider that you have done ?**
+Put Atleast 20 Question on Github, Copy paste what you have write.
+ 
 ### `Week 8:` Practice Your Learning (Matrix) - All Easy Question should be done in a Week
 
 - Practice : [Link](https://leetcode.com/tag/matrix/) - Filter with Difficulty, Do all Easy Questions. `(Atleast 15)`
