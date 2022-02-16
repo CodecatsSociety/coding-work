@@ -5,7 +5,7 @@ Questions: [Link](https://www.pepcoding.com/resources/online-java-foundation/lin
 
 Solutions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
 
-[Some Questions have been covered by Abdul Bari Also]
+[Some Questions have been covered by Abdul Bari Sir Also]
 
 Note: Skip Questions-
 -  Linked List To Stack Adapter 
