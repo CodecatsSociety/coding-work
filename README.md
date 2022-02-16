@@ -5,6 +5,7 @@ Questions: [Link](https://www.pepcoding.com/resources/online-java-foundation/lin
 
 Solutions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
 
+If you have any questions about this, dm us.
 Do in any one language.
 
 ### `Week 9 - Week 10:` Recursion Foundation
