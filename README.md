@@ -1,5 +1,12 @@
 # CodeCats Society
 
+### `Week 11:` Linked List Foundation Questions
+Questions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
+
+Solutions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
+
+Do in any one language.
+
 ### `Week 9 - Week 10:` Recursion Foundation
 - Developing Thoughts of Recursion: [Playlist](https://www.youtube.com/watch?v=5Q5ed7PWJ8I&list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs)
 - **Why and When Use Recursion:**
