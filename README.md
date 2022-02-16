@@ -5,6 +5,10 @@ Questions: [Link](https://www.pepcoding.com/resources/online-java-foundation/lin
 
 Solutions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
 
+Note: Skip Questions-
+-  Linked List To Stack Adapter 
+-  Linked List To Queue Adapter
+
 If you have any questions about this, dm us.
 Do in any one language.
 
