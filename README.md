@@ -3,7 +3,7 @@
 ### `Week 11:` Linked List Foundation Questions
 Questions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
 
-Solutions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
+Solutions: [Link](https://www.youtube.com/watch?v=GVwbTCnZ5kk&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_)
 
 [Some Questions have been covered by Abdul Bari Sir Also]
 
