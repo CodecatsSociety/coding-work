@@ -1,5 +1,15 @@
 # CodeCats Society
 
+### `Stack`
+
+`11 Important Questions and Videos` : [Link](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
+
+`(Base) Level 1` : [Link](https://youtube.com/playlist?list=PL-Jc9J83PIiEyUGT3S8zPdTMYojwZPLUM)
+
+`Level 2` : [Link](https://youtube.com/playlist?list=PL-Jc9J83PIiE1_SifBEWRsD-fzxrvkja9)
+
+**Maximum questions will be covered by these and practice it on platform like leetcode and codechef**
+
 ### `Week 11:` Linked List Foundation Questions
 Questions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
 
