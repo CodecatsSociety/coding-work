@@ -9,7 +9,9 @@
 `Level 2` : [Link](https://youtube.com/playlist?list=PL-Jc9J83PIiE1_SifBEWRsD-fzxrvkja9)
 
 **Thought of Stack will be developed by these playlist and practice stack on leetcode + codechef**
+
 LeetCode Stack - (Sort Difficulty level do easy first) - [Link](https://leetcode.com/tag/stack/)
+
 Codechef Stack - [Link](https://www.codechef.com/tags/problems/stack)
 
 ### `Week 11:` Linked List Foundation Questions
