@@ -8,7 +8,7 @@
 
 `Level 2` : [Link](https://youtube.com/playlist?list=PL-Jc9J83PIiE1_SifBEWRsD-fzxrvkja9)
 
-**Maximum questions will be covered by these and practice it on platform like leetcode and codechef**
+**Thought of Stack will be developed by these playlist and practice stack on leetcode + codechef**
 
 ### `Week 11:` Linked List Foundation Questions
 Questions: [Link](https://www.pepcoding.com/resources/online-java-foundation/linked-lists)
